@@ -7,7 +7,7 @@ const catalogo = [
 
 // Mostrar catálogo
 catalogo.forEach(programa => {
-  console.log(${catalogo.id}. ${catalogo.nombre} - ${catalogo.duracion});
+  console.log({$programa.id}. {$programa.nombre} - {$programa.duracion});
 });
 
 
