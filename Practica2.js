@@ -33,7 +33,6 @@ function enviarSolicitud() {
 
 
   return;
-  alert("Esta alerta nunca se mostrará");
 }
 
 
